@@ -47,7 +47,7 @@ Changed default admin credentials to strong, unique ones to protect the router f
 
 
 ## 🔗 Links
-- 🌐 [GitHub Repo](https://github.com/your-username/secure-enterprise-wifi) *(Update this after uploading)*
+- 🌐 [GitHub Repo](https://github.com/Sarthak6421/Secure-Enterprise-Wi-Fi-Setup.git) *(Update this after uploading)*
 - 💼 [LinkedIn Post](https://www.linkedin.com/in/sarthak-jadhav-128637306/) *(Share your achievement!)*
 
 
