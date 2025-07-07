@@ -34,7 +34,7 @@ Changed default admin credentials to strong, unique ones to protect the router f
 - **Password**: cisco123 (secured using WPA2)
 
 ![Network Layout](./preview/network-layout.png)
-![Network Layout](./Network-layout.png)
+
 
 
 
